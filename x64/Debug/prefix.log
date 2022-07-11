@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Reza\Game Projects\C++\Basic\prefix\Source.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  prefix.vcxproj -> D:\Reza\Game Projects\C++\Basic\prefix\x64\Debug\prefix.exe
